@@ -1,0 +1,2188 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the sorts and numbers of ships and vessels now building for His Majesty added to His Royal Navy, cleaned and refitted yearly, rebuilt and repair'd, kept in sea-pay since this war. ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1695</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25984</idno>
+            <idno type="STC">Wing A392</idno>
+            <idno type="STC">ESTC R6661</idno>
+            <idno type="EEBO-CITATION">11612055</idno>
+            <idno type="OCLC">ocm 11612055</idno>
+            <idno type="VID">47903</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25984)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47903)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 3:26)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the sorts and numbers of ships and vessels now building for His Majesty added to His Royal Navy, cleaned and refitted yearly, rebuilt and repair'd, kept in sea-pay since this war. ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Reproduction of original in Harvard University Libraries.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Royal Navy --  Boats --  Maintenance and repair.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47903:1"/>
+            <pb facs="tcp:47903:1" rendition="simple:additions"/>
+            <p>AN ACCOUNT Of the Sorts and Numbers of SHIPS and VESSELS Now Building for HIS MAJESTY:</p>
+            <p>
+               <list>
+                  <item>Added to His Royal <hi>NAVY,</hi> Since this WAR.
+<list>
+                        <item>Cleaned and Refitted Yearly</item>
+                        <item>Rebuilt and Repair'd</item>
+                        <item>Kept in Sea-Pay</item>
+                     </list> 
+                  </item>
+               </list>
+            </p>
+            <p>As the ſame was Preſented to His MAJESTY by the Officers of His NAVY at His going over to <hi>Holland.</hi>
+            </p>
+            <p>Printed in the Year MDCXCV.</p>
+         </div>
+      </front>
+      <body>
+         <div type="chart">
+            <pb n="2" facs="tcp:47903:2" rendition="simple:additions"/>
+            <p>
+               <table>
+                  <head>An <hi>ABSTRACT</hi> of the Number of SHIPS of each Rank added to His Majeſty's <hi>Royal NAVY</hi> ſince the Fifth of <hi>November, 1688.</hi> and of thoſe now in Building for His Majeſty.</head>
+                  <row>
+                     <cell role="label">RATES and SORTS.</cell>
+                     <cell role="label">
+                        <hi>Built.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Bought.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Prizes.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Total.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Upon the Stocks.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Second Rates</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Third</hi>
+                     </cell>
+                     <cell>16</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>17</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fourth</hi>
+                     </cell>
+                     <cell>23</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>23</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fifth</hi>
+                     </cell>
+                     <cell>13</cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>20</cell>
+                     <cell>5</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sixth</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>20</cell>
+                     <cell>30</cell>
+                     <cell>4</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fire Ships</hi>
+                     </cell>
+                     <cell>22</cell>
+                     <cell>9</cell>
+                     <cell>12</cell>
+                     <cell>43</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bomb Veſſels</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>15</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hulks</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Advice Boats</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ketches</hi>
+                     </cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tranſport Ships</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brigantines</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hoys</hi>
+                     </cell>
+                     <cell>3</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Yachts</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tow Boats</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pinks</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Store Ships</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Machines</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>15</cell>
+                     <cell>—</cell>
+                     <cell>15</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">121</cell>
+                     <cell role="total">41</cell>
+                     <cell role="total">43</cell>
+                     <cell role="total">205</cell>
+                     <cell role="total">35</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="chart">
+            <p>
+               <table>
+                  <head>An <hi>ABSTRACT</hi> of the Number of SHIPS of each Rank Cleaned and Refitted in each Year, from the <hi>5<hi rend="sup">th</hi>
+                     </hi> of <hi>November, 1688.</hi> to the <hi>31<hi rend="sup">th</hi>
+                     </hi> of <hi>December, 1694.</hi> As alſo of thoſe that have been Rebuilt in the ſame Time.</head>
+                  <row>
+                     <cell role="label">RATES and SORTS.</cell>
+                     <cell role="label">1689.</cell>
+                     <cell role="label">1690.</cell>
+                     <cell role="label">1691.</cell>
+                     <cell role="label">1692.</cell>
+                     <cell role="label">1693.</cell>
+                     <cell role="label">1694.</cell>
+                     <cell role="label">
+                        <hi>Total.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Rebuilt, and Repair'd.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Firſt Rates</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>9</cell>
+                     <cell>5</cell>
+                     <cell>6</cell>
+                     <cell>6</cell>
+                     <cell>2</cell>
+                     <cell>30</cell>
+                     <cell>3</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Second</hi>
+                     </cell>
+                     <cell>12</cell>
+                     <cell>20</cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                     <cell>65</cell>
+                     <cell>2</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Third</hi>
+                     </cell>
+                     <cell>47</cell>
+                     <cell>74</cell>
+                     <cell>40</cell>
+                     <cell>43</cell>
+                     <cell>40</cell>
+                     <cell>19</cell>
+                     <cell>263</cell>
+                     <cell>8</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fourth</hi>
+                     </cell>
+                     <cell>57</cell>
+                     <cell>40</cell>
+                     <cell>32</cell>
+                     <cell>40</cell>
+                     <cell>36</cell>
+                     <cell>37</cell>
+                     <cell>242</cell>
+                     <cell>10</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fifth</hi>
+                     </cell>
+                     <cell>10</cell>
+                     <cell>31</cell>
+                     <cell>41</cell>
+                     <cell>39</cell>
+                     <cell>32</cell>
+                     <cell>27</cell>
+                     <cell>180</cell>
+                     <cell>7</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sixth</hi>
+                     </cell>
+                     <cell>7</cell>
+                     <cell>14</cell>
+                     <cell>15</cell>
+                     <cell>34</cell>
+                     <cell>59</cell>
+                     <cell>25</cell>
+                     <cell>154</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fire Ships</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>19</cell>
+                     <cell>11</cell>
+                     <cell>29</cell>
+                     <cell>32</cell>
+                     <cell>8</cell>
+                     <cell>104</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Bomb Veſſels</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>3</cell>
+                     <cell>13</cell>
+                     <cell>33</cell>
+                     <cell>53</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ketches</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>8</cell>
+                     <cell>7</cell>
+                     <cell>4</cell>
+                     <cell>33</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Yachts</hi>
+                     </cell>
+                     <cell>9</cell>
+                     <cell>22</cell>
+                     <cell>23</cell>
+                     <cell>21</cell>
+                     <cell>25</cell>
+                     <cell>16</cell>
+                     <cell>116</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hoys, and Smacks</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hulks</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>19</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Machine Veſſels</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>11</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Well Boats</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>12</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brigantines</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell role="total">155</cell>
+                     <cell role="total">234</cell>
+                     <cell role="total">192</cell>
+                     <cell role="total">243</cell>
+                     <cell role="total">270</cell>
+                     <cell role="total">202</cell>
+                     <cell role="total">1296</cell>
+                     <cell role="total">30</cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="chart">
+            <pb n="3" facs="tcp:47903:2"/>
+            <p>
+               <table>
+                  <head>A Monthly <hi>ABSTRACT</hi> of His Majeſty's Ships kept in Sea-Pay, with their Complements of Men and Guns, from the Fifth of <hi>November, 1688.</hi> to the Firſt of <hi>April, 1695.</hi>
+                  </head>
+                  <row>
+                     <cell role="label" rows="2">Times.</cell>
+                     <cell role="label" cols="13">RATES and SORTS.</cell>
+                     <cell role="label" cols="3">
+                        <hi>Total of</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">1</cell>
+                     <cell role="label">2</cell>
+                     <cell role="label">3</cell>
+                     <cell role="label">4</cell>
+                     <cell role="label">5</cell>
+                     <cell role="label">6</cell>
+                     <cell role="label">
+                        <hi>Fire-Ships.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Yachts.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Hulks, &amp; Puntoons.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Bomb Veſſels.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ma<g ref="char:EOLhyphen"/>chines.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Hoſpital Ships.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Store Ships.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ships.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Men.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Guns.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>5 <hi>Nov.</hi> 1688.</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>12</cell>
+                     <cell>30</cell>
+                     <cell>2</cell>
+                     <cell>8</cell>
+                     <cell>21</cell>
+                     <cell>9</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>86</cell>
+                     <cell>13403</cell>
+                     <cell>2611</cell>
+                  </row>
+                  <row>
+                     <cell>15 <hi>January.</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>14</cell>
+                     <cell>29</cell>
+                     <cell>9</cell>
+                     <cell>7</cell>
+                     <cell>19</cell>
+                     <cell>12</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>93</cell>
+                     <cell>12025</cell>
+                     <cell>3118</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Apr.</hi> 1689.</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>17</cell>
+                     <cell>37</cell>
+                     <cell>7</cell>
+                     <cell>12</cell>
+                     <cell>8</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>91</cell>
+                     <cell>18008</cell>
+                     <cell>3734</cell>
+                  </row>
+                  <row>
+                     <cell>7 <hi>May.</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>18</cell>
+                     <cell>44</cell>
+                     <cell>11</cell>
+                     <cell>11</cell>
+                     <cell>8</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>103</cell>
+                     <cell>19053</cell>
+                     <cell>4264</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>June</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>24</cell>
+                     <cell>47</cell>
+                     <cell>9</cell>
+                     <cell>16</cell>
+                     <cell>14</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>122</cell>
+                     <cell>23927</cell>
+                     <cell>4932</cell>
+                  </row>
+                  <row>
+                     <cell>28</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>24</cell>
+                     <cell>48</cell>
+                     <cell>9</cell>
+                     <cell>32</cell>
+                     <cell>15</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>139</cell>
+                     <cell>24538</cell>
+                     <cell>5300</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>July</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>24</cell>
+                     <cell>48</cell>
+                     <cell>9</cell>
+                     <cell>32</cell>
+                     <cell>15</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>139</cell>
+                     <cell>24313</cell>
+                     <cell>5300</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Auguſt</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>23</cell>
+                     <cell>48</cell>
+                     <cell>12</cell>
+                     <cell>32</cell>
+                     <cell>13</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>140</cell>
+                     <cell>24273</cell>
+                     <cell>5314</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>September</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>24</cell>
+                     <cell>45</cell>
+                     <cell>13</cell>
+                     <cell>32</cell>
+                     <cell>13</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>139</cell>
+                     <cell>23748</cell>
+                     <cell>5264</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>October</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>24</cell>
+                     <cell>45</cell>
+                     <cell>12</cell>
+                     <cell>33</cell>
+                     <cell>13</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>139</cell>
+                     <cell>24188</cell>
+                     <cell>5254</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>November</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>23</cell>
+                     <cell>45</cell>
+                     <cell>12</cell>
+                     <cell>32</cell>
+                     <cell>13</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>137</cell>
+                     <cell>22498</cell>
+                     <cell>5164</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>December</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>23</cell>
+                     <cell>45</cell>
+                     <cell>12</cell>
+                     <cell>32</cell>
+                     <cell>14</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>138</cell>
+                     <cell>22552</cell>
+                     <cell>5172</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>January</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>20</cell>
+                     <cell>44</cell>
+                     <cell>13</cell>
+                     <cell>29</cell>
+                     <cell>11</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>129</cell>
+                     <cell>20765</cell>
+                     <cell>4858</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>February</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>20</cell>
+                     <cell>44</cell>
+                     <cell>12</cell>
+                     <cell>26</cell>
+                     <cell>11</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>125</cell>
+                     <cell>21145</cell>
+                     <cell>4768</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>March</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>7</cell>
+                     <cell>30</cell>
+                     <cell>45</cell>
+                     <cell>15</cell>
+                     <cell>26</cell>
+                     <cell>11</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>147</cell>
+                     <cell>31490</cell>
+                     <cell>6348</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Apr.</hi> 1690.</cell>
+                     <cell>2</cell>
+                     <cell>7</cell>
+                     <cell>30</cell>
+                     <cell>45</cell>
+                     <cell>16</cell>
+                     <cell>26</cell>
+                     <cell>12</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>148</cell>
+                     <cell>31460</cell>
+                     <cell>6376</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>May</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>7</cell>
+                     <cell>29</cell>
+                     <cell>44</cell>
+                     <cell>18</cell>
+                     <cell>23</cell>
+                     <cell>23</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>156</cell>
+                     <cell>31585</cell>
+                     <cell>6344</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>June</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>7</cell>
+                     <cell>30</cell>
+                     <cell>45</cell>
+                     <cell>19</cell>
+                     <cell>25</cell>
+                     <cell>23</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>161</cell>
+                     <cell>32275</cell>
+                     <cell>6534</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>July</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell>34</cell>
+                     <cell>42</cell>
+                     <cell>24</cell>
+                     <cell>24</cell>
+                     <cell>22</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>168</cell>
+                     <cell>35880</cell>
+                     <cell>7056</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Auguſt</hi>
+                     </cell>
+                     <cell>2</cell>
+                     <cell>10</cell>
+                     <cell>34</cell>
+                     <cell>46</cell>
+                     <cell>20</cell>
+                     <cell>24</cell>
+                     <cell>26</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>172</cell>
+                     <cell>36581</cell>
+                     <cell>7168</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>September</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>10</cell>
+                     <cell>32</cell>
+                     <cell>47</cell>
+                     <cell>20</cell>
+                     <cell>22</cell>
+                     <cell>21</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>163</cell>
+                     <cell>35730</cell>
+                     <cell>6898</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>October</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>7</cell>
+                     <cell>34</cell>
+                     <cell>46</cell>
+                     <cell>19</cell>
+                     <cell>22</cell>
+                     <cell>20</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>159</cell>
+                     <cell>33582</cell>
+                     <cell>6680</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>November</hi>
+                     </cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>33</cell>
+                     <cell>46</cell>
+                     <cell>16</cell>
+                     <cell>17</cell>
+                     <cell>20</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>144</cell>
+                     <cell>28752</cell>
+                     <cell>5880</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>December</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>33</cell>
+                     <cell>45</cell>
+                     <cell>15</cell>
+                     <cell>14</cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>127</cell>
+                     <cell>26667</cell>
+                     <cell>5470</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>January</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                     <cell>35</cell>
+                     <cell>49</cell>
+                     <cell>17</cell>
+                     <cell>14</cell>
+                     <cell>30</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>170</cell>
+                     <cell>38507</cell>
+                     <cell>7430</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>February</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                     <cell>35</cell>
+                     <cell>42</cell>
+                     <cell>17</cell>
+                     <cell>12</cell>
+                     <cell>19</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>157</cell>
+                     <cell>38357</cell>
+                     <cell>7042</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>March</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                     <cell>35</cell>
+                     <cell>42</cell>
+                     <cell>17</cell>
+                     <cell>11</cell>
+                     <cell>19</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>156</cell>
+                     <cell>38278</cell>
+                     <cell>7022</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Apr.</hi> 1691.</cell>
+                     <cell>5</cell>
+                     <cell>11</cell>
+                     <cell>34</cell>
+                     <cell>44</cell>
+                     <cell>18</cell>
+                     <cell>13</cell>
+                     <cell>26</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>169</cell>
+                     <cell>39528</cell>
+                     <cell>6887</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>May</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>11</cell>
+                     <cell>34</cell>
+                     <cell>36</cell>
+                     <cell>28</cell>
+                     <cell>18</cell>
+                     <cell>25</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>175</cell>
+                     <cell>39883</cell>
+                     <cell>6935</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>June</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>11</cell>
+                     <cell>32</cell>
+                     <cell>35</cell>
+                     <cell>28</cell>
+                     <cell>20</cell>
+                     <cell>28</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>177</cell>
+                     <cell>39943</cell>
+                     <cell>6959</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>July</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>11</cell>
+                     <cell>34</cell>
+                     <cell>35</cell>
+                     <cell>28</cell>
+                     <cell>21</cell>
+                     <cell>28</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>180</cell>
+                     <cell>39973</cell>
+                     <cell>6989</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Auguſt</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>11</cell>
+                     <cell>34</cell>
+                     <cell>37</cell>
+                     <cell>29</cell>
+                     <cell>19</cell>
+                     <cell>28</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>181</cell>
+                     <cell>40368</cell>
+                     <cell>7073</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>September</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>11</cell>
+                     <cell>34</cell>
+                     <cell>36</cell>
+                     <cell>28</cell>
+                     <cell>17</cell>
+                     <cell>28</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>177</cell>
+                     <cell>40243</cell>
+                     <cell>7001</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>October</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>32</cell>
+                     <cell>33</cell>
+                     <cell>27</cell>
+                     <cell>16</cell>
+                     <cell>13</cell>
+                     <cell>11</cell>
+                     <cell>2</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>136</cell>
+                     <cell>27383</cell>
+                     <cell>5085</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>November</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>32</cell>
+                     <cell>34</cell>
+                     <cell>26</cell>
+                     <cell>20</cell>
+                     <cell>14</cell>
+                     <cell>10</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>138</cell>
+                     <cell>26959</cell>
+                     <cell>5104</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>December</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>32</cell>
+                     <cell>33</cell>
+                     <cell>26</cell>
+                     <cell>20</cell>
+                     <cell>12</cell>
+                     <cell>10</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>135</cell>
+                     <cell>26644</cell>
+                     <cell>5032</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>January</hi>
+                     </cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>32</cell>
+                     <cell>32</cell>
+                     <cell>27</cell>
+                     <cell>19</cell>
+                     <cell>8</cell>
+                     <cell>10</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>130</cell>
+                     <cell>26254</cell>
+                     <cell>4962</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>February</hi>
+                     </cell>
+                     <cell>5</cell>
+                     <cell>10</cell>
+                     <cell>32</cell>
+                     <cell>33</cell>
+                     <cell>27</cell>
+                     <cell>19</cell>
+                     <cell>8</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>2</cell>
+                     <cell>—</cell>
+                     <cell>147</cell>
+                     <cell>36781</cell>
+                     <cell>6370</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>March</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>32</cell>
+                     <cell>31</cell>
+                     <cell>27</cell>
+                     <cell>18</cell>
+                     <cell>27</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>—</cell>
+                     <cell>165</cell>
+                     <cell>38101</cell>
+                     <cell>6586</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Apr.</hi> 1692.</cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>36</cell>
+                     <cell>32</cell>
+                     <cell>27</cell>
+                     <cell>21</cell>
+                     <cell>27</cell>
+                     <cell>10</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>174</cell>
+                     <cell>39977</cell>
+                     <cell>6984</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>May</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>36</cell>
+                     <cell>31</cell>
+                     <cell>27</cell>
+                     <cell>22</cell>
+                     <cell>27</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>173</cell>
+                     <cell>40117</cell>
+                     <cell>6964</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>June</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>37</cell>
+                     <cell>29</cell>
+                     <cell>26</cell>
+                     <cell>24</cell>
+                     <cell>18</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>164</cell>
+                     <cell>39641</cell>
+                     <cell>5032</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>July</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>38</cell>
+                     <cell>30</cell>
+                     <cell>26</cell>
+                     <cell>26</cell>
+                     <cell>21</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>171</cell>
+                     <cell>40506</cell>
+                     <cell>7010</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Auguſt</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>38</cell>
+                     <cell>32</cell>
+                     <cell>29</cell>
+                     <cell>29</cell>
+                     <cell>20</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>177</cell>
+                     <cell>41086</cell>
+                     <cell>7200</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>September</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>38</cell>
+                     <cell>33</cell>
+                     <cell>29</cell>
+                     <cell>30</cell>
+                     <cell>20</cell>
+                     <cell>9</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>—</cell>
+                     <cell>179</cell>
+                     <cell>41260</cell>
+                     <cell>7246</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>October</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>38</cell>
+                     <cell>33</cell>
+                     <cell>30</cell>
+                     <cell>30</cell>
+                     <cell>20</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>1</cell>
+                     <cell>182</cell>
+                     <cell>41445</cell>
+                     <cell>7300</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>November</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>38</cell>
+                     <cell>35</cell>
+                     <cell>30</cell>
+                     <cell>29</cell>
+                     <cell>16</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>1</cell>
+                     <cell>176</cell>
+                     <cell>41574</cell>
+                     <cell>7334</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>December</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>38</cell>
+                     <cell>35</cell>
+                     <cell>30</cell>
+                     <cell>27</cell>
+                     <cell>20</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>179</cell>
+                     <cell>41565</cell>
+                     <cell>7362</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>January</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>38</cell>
+                     <cell>35</cell>
+                     <cell>29</cell>
+                     <cell>25</cell>
+                     <cell>20</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>2</cell>
+                     <cell>176</cell>
+                     <cell>41240</cell>
+                     <cell>7296</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>February</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>38</cell>
+                     <cell>34</cell>
+                     <cell>28</cell>
+                     <cell>28</cell>
+                     <cell>22</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>2</cell>
+                     <cell>182</cell>
+                     <cell>41160</cell>
+                     <cell>7304</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>March</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>38</cell>
+                     <cell>36</cell>
+                     <cell>27</cell>
+                     <cell>30</cell>
+                     <cell>24</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>189</cell>
+                     <cell>42045</cell>
+                     <cell>7444</cell>
+                  </row>
+                  <pb n="4" facs="tcp:47903:3"/>
+                  <row>
+                     <cell role="label" rows="2">Times.</cell>
+                     <cell role="label" cols="13">RATES and SORTS.</cell>
+                     <cell role="label" cols="3">
+                        <hi>Total of</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell role="label">1</cell>
+                     <cell role="label">2</cell>
+                     <cell role="label">3</cell>
+                     <cell role="label">4</cell>
+                     <cell role="label">5</cell>
+                     <cell role="label">6</cell>
+                     <cell role="label">
+                        <hi>Fire-Ships.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Yachts.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Hulks, &amp; Puntoons.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Bomb Veſſels.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ma<g ref="char:EOLhyphen"/>chines.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Hoſpital Ships.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Store Ships.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Ships.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Men.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>Guns.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Apr.</hi> 1693.</cell>
+                     <cell>6</cell>
+                     <cell>10</cell>
+                     <cell>38</cell>
+                     <cell>38</cell>
+                     <cell>27</cell>
+                     <cell>30</cell>
+                     <cell>23</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>191</cell>
+                     <cell>42803</cell>
+                     <cell>7640</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>May</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>38</cell>
+                     <cell>38</cell>
+                     <cell>27</cell>
+                     <cell>32</cell>
+                     <cell>23</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>192</cell>
+                     <cell>42283</cell>
+                     <cell>7576</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>June</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>38</cell>
+                     <cell>38</cell>
+                     <cell>27</cell>
+                     <cell>32</cell>
+                     <cell>23</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>192</cell>
+                     <cell>42283</cell>
+                     <cell>7576</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>July</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>40</cell>
+                     <cell>38</cell>
+                     <cell>29</cell>
+                     <cell>30</cell>
+                     <cell>23</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>194</cell>
+                     <cell>43193</cell>
+                     <cell>7736</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Auguſt</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>39</cell>
+                     <cell>42</cell>
+                     <cell>30</cell>
+                     <cell>30</cell>
+                     <cell>23</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>198</cell>
+                     <cell>43935</cell>
+                     <cell>7902</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>September</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>41</cell>
+                     <cell>43</cell>
+                     <cell>37</cell>
+                     <cell>30</cell>
+                     <cell>23</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>207</cell>
+                     <cell>45270</cell>
+                     <cell>8173</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>October</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>41</cell>
+                     <cell>43</cell>
+                     <cell>33</cell>
+                     <cell>27</cell>
+                     <cell>23</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>207</cell>
+                     <cell>46175</cell>
+                     <cell>8299</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>November</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>41</cell>
+                     <cell>42</cell>
+                     <cell>32</cell>
+                     <cell>27</cell>
+                     <cell>22</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>204</cell>
+                     <cell>45820</cell>
+                     <cell>8245</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>December</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>41</cell>
+                     <cell>42</cell>
+                     <cell>32</cell>
+                     <cell>26</cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>191</cell>
+                     <cell>45146</cell>
+                     <cell>8059</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>January</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>42</cell>
+                     <cell>42</cell>
+                     <cell>29</cell>
+                     <cell>26</cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>189</cell>
+                     <cell>45816</cell>
+                     <cell>8167</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>February</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>42</cell>
+                     <cell>42</cell>
+                     <cell>30</cell>
+                     <cell>26</cell>
+                     <cell>10</cell>
+                     <cell>10</cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>190</cell>
+                     <cell>45606</cell>
+                     <cell>8107</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>March</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>42</cell>
+                     <cell>41</cell>
+                     <cell>30</cell>
+                     <cell>27</cell>
+                     <cell>22</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>7</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>203</cell>
+                     <cell>46311</cell>
+                     <cell>8262</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Apr.</hi> 1694.</cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>41</cell>
+                     <cell>42</cell>
+                     <cell>35</cell>
+                     <cell>30</cell>
+                     <cell>24</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>8</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>214</cell>
+                     <cell>47116</cell>
+                     <cell>8438</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>May</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>41</cell>
+                     <cell>43</cell>
+                     <cell>35</cell>
+                     <cell>33</cell>
+                     <cell>24</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>16</cell>
+                     <cell>—</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>226</cell>
+                     <cell>47757</cell>
+                     <cell>8603</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>June</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>41</cell>
+                     <cell>44</cell>
+                     <cell>35</cell>
+                     <cell>32</cell>
+                     <cell>24</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>16</cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>232</cell>
+                     <cell>47980</cell>
+                     <cell>8635</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>July</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>42</cell>
+                     <cell>44</cell>
+                     <cell>35</cell>
+                     <cell>32</cell>
+                     <cell>25</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>16</cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell>3</cell>
+                     <cell>235</cell>
+                     <cell>48545</cell>
+                     <cell>8723</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Auguſt</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>42</cell>
+                     <cell>44</cell>
+                     <cell>34</cell>
+                     <cell>32</cell>
+                     <cell>25</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>15</cell>
+                     <cell>6</cell>
+                     <cell>5</cell>
+                     <cell>4</cell>
+                     <cell>233</cell>
+                     <cell>48313</cell>
+                     <cell>8667</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>September</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>42</cell>
+                     <cell>45</cell>
+                     <cell>35</cell>
+                     <cell>33</cell>
+                     <cell>25</cell>
+                     <cell>11</cell>
+                     <cell>—</cell>
+                     <cell>15</cell>
+                     <cell>5</cell>
+                     <cell>5</cell>
+                     <cell>4</cell>
+                     <cell>235</cell>
+                     <cell>47447</cell>
+                     <cell>8625</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>October</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>42</cell>
+                     <cell>45</cell>
+                     <cell>34</cell>
+                     <cell>37</cell>
+                     <cell>25</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>15</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                     <cell>4</cell>
+                     <cell>237</cell>
+                     <cell>49267</cell>
+                     <cell>8777</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>November</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>41</cell>
+                     <cell>47</cell>
+                     <cell>33</cell>
+                     <cell>34</cell>
+                     <cell>21</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>5</cell>
+                     <cell>212</cell>
+                     <cell>48034</cell>
+                     <cell>8615</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>December</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>41</cell>
+                     <cell>47</cell>
+                     <cell>30</cell>
+                     <cell>33</cell>
+                     <cell>21</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>1</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>7</cell>
+                     <cell>210</cell>
+                     <cell>48581</cell>
+                     <cell>8625</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>January</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>41</cell>
+                     <cell>47</cell>
+                     <cell>30</cell>
+                     <cell>34</cell>
+                     <cell>25</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>13</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>7</cell>
+                     <cell>227</cell>
+                     <cell>47569</cell>
+                     <cell>8765</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>February</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>48</cell>
+                     <cell>47</cell>
+                     <cell>30</cell>
+                     <cell>36</cell>
+                     <cell>25</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>13</cell>
+                     <cell>—</cell>
+                     <cell>3</cell>
+                     <cell>7</cell>
+                     <cell>236</cell>
+                     <cell>48337</cell>
+                     <cell>8939</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>March</hi>
+                     </cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>44</cell>
+                     <cell>49</cell>
+                     <cell>29</cell>
+                     <cell>35</cell>
+                     <cell>25</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>13</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>7</cell>
+                     <cell>233</cell>
+                     <cell>49372</cell>
+                     <cell>9111</cell>
+                  </row>
+                  <row>
+                     <cell>1 <hi>Apr.</hi> 1695.</cell>
+                     <cell>6</cell>
+                     <cell>9</cell>
+                     <cell>46</cell>
+                     <cell>47</cell>
+                     <cell>30</cell>
+                     <cell>37</cell>
+                     <cell>25</cell>
+                     <cell>12</cell>
+                     <cell>—</cell>
+                     <cell>13</cell>
+                     <cell>—</cell>
+                     <cell>4</cell>
+                     <cell>7</cell>
+                     <cell>236</cell>
+                     <cell>49944</cell>
+                     <cell>9211</cell>
+                  </row>
+               </table>
+            </p>
+            <pb facs="tcp:47903:3"/>
+         </div>
+      </body>
+   </text>
+</TEI>
